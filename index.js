@@ -1,13 +1,11 @@
-var person = prompt("Have you been to Guam");
-
-var response;
-
-
-
 // var today = new Date();
 // var hourNow = today.getHours();
 // var greeting;
 // hourNow = 5
+
+var person = prompt("Have you been to Guam");
+
+var response;
 
 if (person === 'yes') {
     response = 'So that means you love Guam right?';
