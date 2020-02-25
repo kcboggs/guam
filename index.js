@@ -25,28 +25,6 @@ var responseForReal = '<h3>' + response + '</h3>';
 return responseForReal;
 }
 
-function fish(){
-
-
-var person = prompt("Do you like fishing?");
-
-var response;
-
-    if (person === 'yes') {
-        response = 'You will enjoy the fishing life on Guam!';
-    } else if (person === 'no') {
-        alert('Your missing out!');
-        response = 'Your missing out!';
-    } else if (person === 'I do not know how to fish.') {
-        response = 'No worries you can learn while your here!';
-    } else {
-
-var responseForReal = '<h3>' + response + '</h3>';
-
-return responseForReal = 'Enjoy the beaches then!';
-}   
-}
-
 function cultures(){
 
 var person = prompt("Do you like learning other cultures?");

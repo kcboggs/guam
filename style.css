@@ -1,6 +1,5 @@
 body { 
     background-color: skyblue;
-    background-color: skyblue;
 }
 
 h1 { 
@@ -8,12 +7,23 @@ h1 {
 } 
     
 p { 
-    text-align: justify;
+    text-align: center;
 } 
 
 .credits { 
     text-align: right;
 }
+
+
+
+
+/* a {
+   
+    color: lightblue;
+} */
+
+
+
 
 
 
